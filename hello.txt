@@ -1,2 +1,3 @@
 Hello everyone...
-Git is Super Popular Version Control System
+Git is Super Popular Version Control System.
+Manages our project's files and keeps track of file changes.
